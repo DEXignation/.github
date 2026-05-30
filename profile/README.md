@@ -62,7 +62,7 @@ Full attribution lives in each repository's `THIRD-PARTY-LICENSES.md`.
 ## Contact / 연락처
 
 - **Website**: https://dexignation.com
-- **Security disclosures**: `security@dexignation.io`
+- **Security disclosures**: `roy@bukcs.com`
 
 ---
 
